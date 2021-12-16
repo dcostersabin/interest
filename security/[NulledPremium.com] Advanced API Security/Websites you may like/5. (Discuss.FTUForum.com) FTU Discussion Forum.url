@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://discuss.ftuforum.com/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://discuss.ftuforum.com/
+IconFile=https://discuss.ftuforum.com/uploads/default/original/1X/9fbe0b6b87684833e21065a1100e52e8832ea5ee.png
+IconIndex=1

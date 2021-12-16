@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=https://ftuforum.com/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+Prop16=19,3
+Prop17=31,https://ftuforum.com/wp-content/uploads/2017/10/cropped-01-1-270x270.png
+[InternetShortcut]
+IDList=
+URL=https://ftuforum.com/
+IconFile=https://ftuforum.com/wp-content/uploads/2017/10/01.png
+IconIndex=1
